@@ -14,7 +14,7 @@ const Banner = () => {
                   <span className="bg-white text-sm py-1 rounded-lg px-2  ">26k Happy Customers</span>
                </div>
                <h2 className="text-white text-5xl font-bold">Breathe better,<br></br> live better!</h2>
-               <p className="text-white">{`Discover how effortless breathing can enhance your life. Take the first step Today!`}</p>
+               <p className="text-white">Discover how effortless breathing can enhance your life. <br></br> Take the first step Today!</p>
                <Button title="Shop Now"/>
             </div>
         </div>

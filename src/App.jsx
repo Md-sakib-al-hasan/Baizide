@@ -1,7 +1,8 @@
 import './App.css'
-import Banner from './components/banner/Banner'
-import Navbar from './components/navbar/Navbar'
-import ProductDeatils from './components/productDeatils/ProductDeatils'
+import Banner from './components/banner/Banner';
+import Choose from './components/Choose/Choose';
+import Navbar from './components/navbar/Navbar';
+import ProductDeatils from './components/productDeatils/ProductDeatils';
 
 function App() {
   
@@ -11,6 +12,7 @@ function App() {
         <Navbar/>
         <Banner/>
         <ProductDeatils/>
+        <Choose/>
         
     </>
   )

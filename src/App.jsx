@@ -1,6 +1,6 @@
 import './App.css'
 import Banner from './components/banner/Banner';
-import Choose from './components/Choose/Choose';
+import Choose from './components/choose/Choose';
 import Navbar from './components/navbar/Navbar';
 import ProductDeatils from './components/productDeatils/ProductDeatils';
 
